@@ -1,0 +1,6 @@
+{
+  "name": "Enchanted Garden Love Letter",
+  "description": "An enchanted blooming flower meadow and interactive romantic love letter experience with customizable themes, blooming steps, and shareable links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
