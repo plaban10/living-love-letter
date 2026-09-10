@@ -1,6 +1,6 @@
 {
-  "name": "Enchanted Garden Love Letter",
-  "description": "An enchanted blooming flower meadow and interactive romantic love letter experience with customizable themes, blooming steps, and shareable links.",
+  "name": "living-love-letter",
+  "description": "I built this quiet corner of the internet because real flowers fade too quickly, and some feelings deserve a meadow that blooms forever. Living Love Letter is an interactive digital canvas where stars twinkle, wildflowers sway in the gentle breeze, and a red rose holds a secret message crafted just for your favorite person..",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
